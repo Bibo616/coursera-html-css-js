@@ -28,7 +28,7 @@
 }
 
 #nav-list {
-  margin-top: 10px;
+  	margin-top: 10px;
 }
 
 #nav-list li {
@@ -36,17 +36,16 @@
 }
 
 #nav-list a {
-  color: black;
-  font-size: 1.2em;
-  text-align: center;
+  	color: black;
+  	font-size: 1.2em;
 }
 
 #nav-list a:hover {
-  background: #FFFF99;
+  	background: #FFFF99;
 }
 
 #nav-list a span {
-  font-size: 1.8em;
+  	font-size: 1.8em;
 }
 
 #our-menu-title {
@@ -83,7 +82,7 @@
 }
 
 @media (max-width: 767px) {
-.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-	background-color: white;
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		background-color: white;
 	}
 }
